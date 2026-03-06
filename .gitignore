@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset
+temp_dataset/
+FINAL/ambulance/
+
+# Models
+*.pt
+*.h5
