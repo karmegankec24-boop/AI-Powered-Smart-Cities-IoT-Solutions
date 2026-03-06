@@ -7,10 +7,14 @@ venv/
 env/
 .venv/
 
-# Dataset
+# datasets
 temp_dataset/
-FINAL/ambulance/
+ambulance/
 
-# Models
+# large models
 *.pt
 *.h5
+*.tflite
+
+# logs
+*.log
